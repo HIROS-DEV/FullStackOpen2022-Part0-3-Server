@@ -22,6 +22,12 @@ But as of today, the application is working in this URL (https://phonebook-fulls
 This course is not for CSS. So, the site is not fancy...
 <img src="./screenshot.png"/>
 
+
+## .env file
+
+MONGODB_URI= "your mongodb uri here" </br>
+PORT= "your localhost port number here"
+
 Through the courses, I got the more knowledge of the latest web developer's world.
 Fundamentals is always most important thing in the programming world.
 So, I am satisfied with this course.
